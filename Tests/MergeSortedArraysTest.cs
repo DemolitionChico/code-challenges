@@ -1,4 +1,4 @@
-using MergeSortedArrays;
+using Challenges;
 
 namespace Tests;
 

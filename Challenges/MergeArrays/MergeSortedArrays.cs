@@ -1,4 +1,4 @@
-﻿namespace MergeSortedArrays;
+﻿namespace Challenges;
 
 public static class ArrayMerger
 {

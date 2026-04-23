@@ -17,7 +17,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\MergeSortedArrays\MergeSortedArrays.csproj" />
+      <ProjectReference Include="..\Challenges\Challenges.csproj" />
     </ItemGroup>
 
 </Project>
